@@ -52,6 +52,10 @@
 - Root privileges (sudo access)
 - Samsung device in Download Mode
 
+## ✅ Tested On
+
+- Ubuntu Desktop (Fully tested and compatible)
+
 ---
 
 ## 📦 Installation
