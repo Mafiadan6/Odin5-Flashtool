@@ -1,0 +1,5 @@
+# Odin5 Flash Tool Requirements
+# Created by 爪卂丂ㄒ乇尺爪工刀ᗪ
+
+PyQt5>=5.15.0
+PyQt5-Tools>=5.15.0
